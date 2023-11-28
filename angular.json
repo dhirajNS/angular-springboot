@@ -116,5 +116,8 @@
         }
       }
     }},
-  "defaultProject": "user-registration-client"
+  "defaultProject": "user-registration-client",
+  "cli": {
+    "analytics": "2c852fc4-bec6-43c6-9c70-5acb26c735bd"
+  }
 }
